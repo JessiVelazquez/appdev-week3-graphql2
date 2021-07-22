@@ -38,5 +38,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "<!--- STARTEXCLUDE ---> # 🎓 Netflix Clone using Astra DB and GraphQL",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessiVelazquez/appdev-week3-graphql2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessiVelazquez/appdev-week3-graphql2/issues"
+  },
+  "homepage": "."
 }
